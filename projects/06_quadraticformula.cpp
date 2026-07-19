@@ -16,7 +16,7 @@ int main () {
     std::cin >> Cvariable;
 
     double discriminant = Bvariable * Bvariable - 4 * Avariable * Cvariable;
-        if (discriminant > 0) {
+        if (discriminant < 0) {
         std::cout << "No real roots. Answers are imaginary or complex.";
         return 0;
     }
