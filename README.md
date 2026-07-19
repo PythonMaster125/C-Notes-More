@@ -10,6 +10,8 @@ These are small C++ projects I made while learning programming, math, and physic
 - Mini Choice Game v2
 - Projectile Analyzer
 - Quadratic Formula Calculator
+- Vector Component Calculator
+
 
 ## Skills Practiced
 
@@ -18,6 +20,7 @@ These are small C++ projects I made while learning programming, math, and physic
 - Basic math formulas
 - if/else statements
 - Quadratic equations
+- Trigonometry & Vectors
 - Projectile motion
 - Using `<iostream>` and `<cmath>`
 
